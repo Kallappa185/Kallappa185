@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kallappa B Hanchanale</h1>
-<h3 align="center">🚀 Senior Java Full Stack Developer | Crafting Scalable Enterprise Solutions</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Crafting Scalable Enterprise Solutions</h3>
 
 ---
 
