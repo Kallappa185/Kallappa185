@@ -74,8 +74,8 @@ My expertise spans across **backend engineering**, **frontend development**, and
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href=https:"//www.linkedin.com/in/kallappa-hanchanale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto: kallappabhanchanale@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/Kallappa185"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
